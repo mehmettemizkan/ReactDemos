@@ -11,8 +11,7 @@ function App() {
       <Navi/>
       <Container className='main'>
         <Dashboard/>
-      </Container>
-      
+      </Container>      
     </div>
   );
 }

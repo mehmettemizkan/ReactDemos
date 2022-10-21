@@ -14,6 +14,12 @@ export default function Categories() {
         <Menu.Item name="home" />
         <Menu.Item name="messages" />
         <Menu.Item name="friends" />
+        <Menu.Item name="home" />
+        <Menu.Item name="messages" />
+        <Menu.Item name="friends" />
+        <Menu.Item name="home" />
+        <Menu.Item name="messages" />
+        <Menu.Item name="friends" />
       </Menu>
     </div>
   );
